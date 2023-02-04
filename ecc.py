@@ -430,7 +430,7 @@ def setting():
 		print('')
 	print(f'{b}╭────────────────────────────────────────────────────────────────────╮')
 	print(f'{b}│     [{b}01]. {b}method async (new)  | [2]  m.facebook.com v2             │')
-	print(f'{b}│     [{b}03]. {b}mbasic.facebook.com | [3]  mobile.facebook.com           │')
+	print(f'{b}│     [{b}03]. {b}mbasic.facebook.com | [4]  mobile.facebook.com           │')
 	print(f'{b}│     [{b}05]. {b}d.facebook.com      | [6]  Akan Di Update                │')
 	print(f'{b}╰────────────────────────────────────────────────────────────────────╯')
 	cetak(panel(f'[bold green]Notes: pilih metode yang dirasa cocok dengan device & kartu anda\ndengan cara dicoba 1 per 1[bold white]',width=70,title=f"[bold green]• [bold yellow]• [bold red]• [bold white]SIMPLE [bold red]• [yellow]• [bold green]•",style=f"{color_table}"))
